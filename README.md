@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sai Ram Senapati</h1>
+<h1 align="center">Hi 👋, I'm Debabrata Bhagat</h1>
 
 🚀 AI & ML enthusiast passionate about **Generative AI, LLMs, and Computer Vision**.  
 🛠️ Built **natural language querying for databases** & **face recognition systems**.  
