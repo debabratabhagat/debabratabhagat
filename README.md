@@ -9,7 +9,7 @@ Learning, coding, evolving—one model at a time! 🤖✨
 # Follow me around the web:
 <p><a target="_blank" href="https://www.linkedin.com/in/debabrata-bhagat-447187208/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/debabratabhagat11" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
-<a href="mailto:debabrata.db16@gmail.com@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-debabrata-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:debabrata.db16@gmail.com@gmail.com" alt="Gmail"></a>
+<a href="mailto:debabrata.db16@gmail.com@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-debabrata-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:debabrata.db16@gmail.com@gmail.com" alt="Gmail"></a>
 </p>
 
 
